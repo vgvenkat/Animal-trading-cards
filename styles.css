@@ -1,0 +1,29 @@
+/* add your CSS here */
+body{
+	font-family: Helvetica ,sans-serif;
+	letter-spacing: 1px;
+}
+#animal-name{
+	text-align: center;
+}
+.animal-image{
+	width: 300px;
+}
+.animal-facts{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.animal-container{
+	border: 1px solid grey;
+	box-shadow: 10px 6px 13px -5px rgba(0,0,0,0.73);
+	padding: 10px;
+	width: 300px ;
+}
+
+.animal-content{
+	margin-top: 10px;
+	border: 1px solid grey;
+	padding: 10px;
+}
